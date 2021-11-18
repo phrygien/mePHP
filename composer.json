@@ -62,5 +62,6 @@
             "@php -r \"unlink('README.MD'); rename('README2.MD', 'README.MD');\""
         ]
     },
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
