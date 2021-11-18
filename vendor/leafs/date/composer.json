@@ -1,0 +1,29 @@
+{
+    "name": "leafs/date",
+    "description": "Leaf PHP date module",
+    "keywords": [
+        "date",
+        "time",
+        "datetime",
+        "leaf",
+        "php",
+        "framework"
+    ],
+    "homepage": "https://leafphp.netlify.app/#/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Darko",
+            "email": "mickdd22@gmail.com",
+            "homepage": "https://mychi.netlify.app",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Leaf\\": "src"
+        }
+    },
+    "minimum-stability": "stable"
+}
